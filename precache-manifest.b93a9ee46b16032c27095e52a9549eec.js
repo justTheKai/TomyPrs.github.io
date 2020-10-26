@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58ea739ff4a9d4226f127703d51c8d79",
+    "revision": "e3c4d8b37db2b4a19254c6b6c7296ccb",
     "url": "/index.html"
   },
   {
-    "revision": "f6cfff21dddd43169a9a",
+    "revision": "ed1d6831d4e266127c08",
     "url": "/static/css/main.672e51bd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.4c874b6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f6cfff21dddd43169a9a",
-    "url": "/static/js/main.02e03757.chunk.js"
+    "revision": "ed1d6831d4e266127c08",
+    "url": "/static/js/main.8b8bcc52.chunk.js"
   },
   {
     "revision": "106981a12397f2d3a443",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/animated_logo.52e0714e.svg"
   },
   {
-    "revision": "0b0104f16e6cff9ff4973f32b7eb1273",
-    "url": "/static/media/anime.0b0104f1.png"
+    "revision": "9cbb01c198e5454b950b46a6d11d489a",
+    "url": "/static/media/anime.9cbb01c1.png"
   },
   {
     "revision": "b6b12c7d07e0569e771c8aedf81a7767",
